@@ -76,3 +76,6 @@ if len(top_3_fit)==0:
     print("No wearable garment found")
 
     
+
+#I have explained the efficiency optimization for database of 1 million items in README.md
+#The explanation is right under the logic for question 3 and above the "how to run" and "requirements" section in README.md

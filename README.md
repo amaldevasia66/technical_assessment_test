@@ -78,9 +78,9 @@ Also KD Tree is chosen because it works the best among low dimensional spaces,so
 
 ## How to Run
 
-python question1.py
-python question2.py
-python question3.py
+- python question1.py
+- python question2.py
+- python question3.py
 
 ## Requirements
 

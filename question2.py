@@ -84,23 +84,23 @@ class DataSanitizer:
 measurement={}
 #reading measurement from user
 try:
-    ht=int(input("Enter height measurement:").strip())
+    ht=float(input("Enter height measurement:").strip())
 except ValueError:
     ht=None
 try:
-    c=int(input("Enter chest measurement:").strip())
+    c=float(input("Enter chest measurement:").strip())
 except ValueError:
     c=None
 try:
-    w=int(input("Enter waist measurement:").strip())
+    w=float(input("Enter waist measurement:").strip())
 except ValueError:
     w=None
 try:
-    h=int(input("Enter hip measurement:").strip())
+    h=float(input("Enter hip measurement:").strip())
 except ValueError:
     h=None
 try:
-    al=int(input("Enter arm length measurement:").strip())
+    al=float(input("Enter arm length measurement:").strip())
 except ValueError:
     al=None
 

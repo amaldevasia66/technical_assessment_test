@@ -6,9 +6,9 @@ Also KD Tree is chosen because it works the best among low dimensional spaces,so
 
 ## How to Run
 
-python question1.py
-python question2.py
-python question3.py
+python body_measurement.py
+python normalisation_outlier_detection_and_measurement_estimation.py
+python garment_fit_recommendation.py
 
 ## Requirements
 

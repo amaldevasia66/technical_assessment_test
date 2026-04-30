@@ -1,5 +1,3 @@
-#logic to all 3 questions and efficiency requirement for 3rd question is written in README.md
-
 import trimesh
 import numpy as np
 
